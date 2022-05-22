@@ -9,9 +9,8 @@
         let fakeLagging = false
         let packetLimit = 10
         let packetsQueue = []
-        let blockSockets
 
-        let sendMessage = (author, content) => {
+        /* let sendMessage = (author, content) => {
             let span = document.createElement("span")
             span.style = "color: #e88000;"
             span.innerHTML = fakeLagging ? `&lrm;${content}&lrm;` : `&lrm;${content}&lrm;`
@@ -36,7 +35,7 @@
             chatMessage.append(chatItem)
 
             chatList.appendChild(chatMessage)
-        }
+        } */
 
         let visible = true
         let menuHTML = ''
