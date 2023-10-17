@@ -1,6 +1,7 @@
 # KrunkerWS Script
-## *Lag is always annoying but what if you could manage it huh? 🧐*
+## *Managing lat your advantage*
 ---
+####  Originale script NasaPeak made by Lemons(?) I just adjusted it a bit
 ####  KrunkerWS lets you activate FakeLag and adjust its power to make you just teleport-lag around the map whenever you want.
 ## How does it work?
 > #### By delaying the packets you send to the server. 
